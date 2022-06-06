@@ -424,26 +424,24 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 
   .plane{
     max-width: 1360px;
-    height: 1200px;
+    height: 550px;
   }
 
   .card__block{
-    max-width: 1200px;
+    max-width: 1260px;
     height: 1130px;
-    flex-direction: column;
-    flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
   }
 
   .card{
-    width: 380.75px;
-    height: 552px;
+    width: 300.75px;
+    height: 500px;
   }
 
   .card img{
-    width: 380.75px;
-    height: 552px;
+    width: 300.75px;
+    height: 500px;
   }
 
   .plane__btn{
@@ -466,12 +464,12 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 
   .plane{
     max-width: 1220px;
-    height: 1200px;
+    height: 1270px;
   }
 
   .card__block{
-    max-width: 1060px;
-    height: 1130px;
+    max-width: 1260px;
+    height: 1200px;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -479,13 +477,13 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
   }
 
   .card{
-    width: 380.75px;
-    height: 552px;
+    width: 410.75px;
+    height: 582px;
   }
 
   .card img{
-    width: 380.75px;
-    height: 552px;
+    width: 410.75px;
+    height: 582px;
   }
 
   .plane__btn{
